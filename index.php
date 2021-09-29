@@ -1,0 +1,336 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<!-- Primary Meta Tags -->
+	<title>Sudheer Infotech Solutions</title>
+	<meta name="title" content="Sudheer InfoTech Solutions">
+	<meta name="description" content="We are serving different type of tech services like IT, Networking, Tech support for reasonable prices. We are committed to giving you the best creative and innovative ideas that help your business growth. Our technological services take your business to a successful business">
+	<meta name="keywords" content="it solutions, web design, web development, free web site, free website design, free web development, free hosting, logo design, app development, software development, android apps. ios apps. android development, ios development, free unlimited hosting, balle sudheer babu, 9640405005, contact@sudheerinfo.com, sudheer babu, sudheer hyderabad cheap web design, top web design, top Hyderabad web developer. best Hyderabad it company, free online web design course, best web design packages, free web design trial,sudheer, hero sudheer, actor sudheer, jabardash sudheer, sudheer income">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="language" content="English">
+	<meta name="revisit-after" content="1 days">
+	<meta name="author" content="Sudheer babu">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://www.sudheerinfo.com/">
+	<meta property="og:title" content="Sudheer InfoTech Solutions">
+	<meta property="og:description" content="We are serving different type of tech services like IT, Networking, Tech support for reasonable prices. We are committed to giving you the best creative and innovative ideas that help your business growth. Our technological services take your business to a successful business">
+	<meta property="og:image" content="http://www.sudheerinfo.com/images/sudheer.png">
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="http://www.sudheerinfo.com/">
+	<meta property="twitter:title" content="Sudheer InfoTech Solutions">
+	<meta property="twitter:description" content="We are serving different type of tech services like IT, Networking, Tech support for reasonable prices. We are committed to giving you the best creative and innovative ideas that help your business growth. Our technological services take your business to a successful business">
+	<meta property="twitter:image" content="http://www.sudheerinfo.com/images/sudheer.png">
+	<!-- other links -->
+	<link rel="canonical" href="http://www.sudheerinfo.com/" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<script src="assets/js/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://apis.google.com/js/client:platform.js?onload=renderButton" async defer></script>
+	<meta name="google-signin-client_id" content="319769542553-ag8b304rqt9hnabema2lho131t85i2ms.apps.googleusercontent.com">
+	<style>
+	/* ribboon css  */
+	
+	.ribbon {
+		margin: 100px auto;
+		width: 100%;
+		height: 100%;
+		display: block;
+		position: relative;
+		overflow: hidden;
+		z-index: 12/* Sit on top */
+	}
+	
+	.ribbon span {
+		z-index: 12;
+		/* Sit on top */
+		width: 150px;
+		height: 34px;
+		top: 20px;
+		right: -40px;
+		position: absolute;
+		display: block;
+		background: #FF0000;
+		color: #333;
+		font-family: arial;
+		font-size: 18px;
+		color: white;
+		text-align: center;
+		line-height: 34px;
+		transform: rotate(45deg);
+		-webkit-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+	}
+	/* The Modal (background) */
+	
+	.modal {
+		display: none;
+		position: fixed;
+		z-index: 10;
+		padding-top: 100px;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		overflow: auto;
+		background-color: rgb(0, 0, 0);
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+	/* Modal Content */
+	
+	.modal-content {
+		background-color: #fefefe;
+		margin: auto;
+		border: 1px solid #888;
+        border: 2px solid lightcyan;
+        border-radius: 10px;
+        text-align: center;
+		width: 50%;
+		padding: 80px;
+	}
+	/* The Close Button */
+	
+	.close {
+		color: #aaaaaa;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+	
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	
+	@media only screen and (max-width: 900px) {
+		.modal-content {
+			width: 80%;
+            padding: 5px;
+		}
+	}
+	</style>
+</head>
+
+<body class="is-preload">
+	<!-- Header -->
+	<section id="header">
+		<header> <span class="image avatar"><img id="profileAvtar" src="images/sudheer.webp" alt="sudheer" /></span>
+			<h1 id="logo"><a href="/">Sudheer Babu</a></h1>
+			<p>I'm a proffessional
+				<br/> Full statck Web Developer</p>
+		</header>
+		<nav id="nav">
+			<ul>
+				<li><a href="#about" class="active">About</a></li>
+				<li><a href="#services">Things We Can Do</a></li>
+				<li><a href="#three">Trending Services</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+		<footer>
+			<ul class="icons">
+				<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+			</ul>
+		</footer>
+	</section>
+	<!-- Wrapper -->
+	<div id="wrapper">
+		<!-- Main -->
+		<div id="main">
+			<!-- One -->
+			<section id="about">
+				<div class="image main" data-position="center"> <img src="images/banner.webp" alt="" /> </div>
+				<div class="container">
+					<header class="major">
+						<h3 style="color: #4acaa8;">Sudheer InfoTech Solutions</h3>
+						<p style="text-align: justify;">We are a new startup for serving different type of tech services like IT, Networking, Tech support for reasonable prices. We are committed to giving you the best creative and innovative ideas that help your business growth. Our technological services take your business to a successful business. We are so glad and always for your business needs by <a href="http://www.sudheerinfo.com">Sudheer InfoTech solutions</a>.</p>
+					</header>
+					<p style="text-align: right;">💜 You are with instant experts. Our team gives you the best possible soution</p>
+				</div>
+			</section>
+			<!-- Two -->
+			<section id="services">
+				<div class="container">
+					<h3>Things We Can Do</h3>
+					<p>We love to shape things for helping our client to achieve their goal. Adapting their culture, to become the part of their life achievements.</p>
+					<ul class="feature-icons">
+						<li class="icon solid fa-code">Web Design and Development</li>
+						<li class="icon solid fa-cubes">Software Development</li>
+						<li class="icon solid fa-robot">Android App Development</li>
+						<li class="icon solid fa-mobile">IOS App Development</li>
+						<li class="icon solid fa-phone">Tech Support Services</li>
+						<li class="icon solid fa-wrench">Hardware and Networking Services</li>
+						<li class="icon solid fa-book">Image and Video editing</li>
+						<li class="icon solid fa-coffee">Logo Design</li>
+						<li class="icon solid fa-bolt">S.E.O</li>
+						<li class="icon solid fa-users">Social media business</li>
+					</ul>
+				</div>
+			</section>
+			<!-- Three -->
+			<section id="three">
+				<div class="container">
+					<h3>Our Trending Services</h3>
+					<p>Currently, we are delivering our discounted and trial services on web development and design. Hurry up...</p>
+					<div class="features">
+						<article class="ribbon"> <span>-100% off</span>
+							<a href="#" class="image"><img src="images/free-web-design.webp" alt="free-web-design" /></a>
+							<div class="inner">
+								<h4>Free web design package</h4>
+								<ul>
+									<li>Static Website. Not responsive.</li>
+									<li>5 pages design for all basic details.</li>
+									<li>SEO friendly design for better results.</li>
+								</ul>
+								<ul class="actions fit small">
+									<li><a href="#" class="button primary fit small">Know more about Free plan</a></li>
+								</ul>
+							</div>
+						</article>
+						<article class="ribbon"> <span>-90% off</span>
+							<a href="#" class="image"><img src="images/silver-plan-web-design.webp" alt="silver-plan-web-design" /></a>
+							<div class="inner">
+								<h4>Silver web design package</h4>
+								<ul>
+									<li>Beautiful responsive design.</li>
+									<li>5 pages design for all basic details.</li>
+									<li>SEO friendly design for better results.</li>
+								</ul>
+								<ul class="actions fit small">
+									<li><a href="#" class="button primary fit small">Know more about Silver plan</a></li>
+								</ul>
+							</div>
+						</article>
+						<article class="ribbon"> <span>-90% off</span>
+							<a href="#" class="image"><img src="images/gold-plan-web-design.webp" alt="gold-plan-web-design" /></a>
+							<div class="inner">
+								<h4>Gold web design package</h4>
+								<ul>
+									<li>Responsive and dynamic Website.</li>
+									<li>7 pages design for all basic details.</li>
+									<li>Free hosting for startups.</li>
+									<li>SEO friendly design for better results.</li>
+								</ul>
+								<ul class="actions fit small">
+									<li><a href="#" class="button primary fit small">know more about Gold plan</a></li>
+								</ul>
+							</div>
+						</article>
+						<article class="ribbon"> <span>-90% off</span>
+							<a href="#" class="image"><img src="images/custom-web-design.webp" alt="custom-web-design" /></a>
+							<div class="inner">
+								<h4>Platinum custom web design package</h4>
+								<ul>
+									<li>Responsive and dynamic Website.</li>
+									<li>dynamic unlimited pages design.</li>
+									<li>Free hosting for startups.</li>
+									<li>SEO friendly design for better results.</li>
+									<li>Login & payment gateway services.</li>
+									<li>Developed in cms as per requirement.</li>
+								</ul>
+								<ul class="actions fit small">
+									<li><a href="#" class="button primary fit small">know more about Platinum custom plan</a></li>
+								</ul>
+							</div>
+						</article>
+					</div>
+				</div>
+			</section>
+			<!-- Four -->
+			<section id="contact">
+				<div class="container">
+					<!-- Show the user profile details  from google login-->
+					<div class="userContent" style="display: none;"></div>
+					<div class="dataloc"></div>
+					<h3>Contact</h3>
+					<h5>Get In Touch with below Whatsapp or Mail or Ping me online</h5>
+					<ul class="icons">
+						<li> <a href="tel:+919640405005" class="fa fa-phone-square" style="border-bottom:solid 0px black"><span class="label"></span> Call me</a> </li>
+						<li> <a href="https://wa.me/919640405005" class="fa fa-whatsapp" style="border-bottom:solid 0px black"><span class="label"></span> Whasapp me</a> </li>
+						<li><a href="mailto:contact@sudheerinfo.com" class="fa fa-envelope" style="border-bottom:solid 0px black"><span class="label"></span> Mail me</a></li>
+					</ul>
+					<p>Your valuable words are very precious to us for a better understanding of giving our best. Thank you.</p>
+					<form method="post" action="#">
+						<div class="row gtr-uniform">
+							<div class="col-6 col-12-xsmall">
+								<input type="text" name="name" id="name" placeholder="Name" />
+							</div>
+							<div class="col-6 col-12-xsmall">
+								<input type="email" name="email" id="email" placeholder="Email" />
+							</div>
+							<div class="col-12">
+								<input type="text" name="subject" id="subject" placeholder="Subject" />
+							</div>
+							<div class="col-12">
+								<textarea name="message" id="message" placeholder="Message" rows="6"></textarea>
+							</div>
+							<div class="col-12">
+								<ul class="actions">
+									<li>
+										<input type="submit" class="primary" value="Send Message" />
+									</li>
+									<li>
+										<input type="reset" value="Reset Form" />
+									</li>
+								</ul>
+							</div>
+						</div>
+					</form>
+				</div>
+			</section>
+		</div>
+		<div class="ribbon"> <span>-70%</span> </div>
+		<!-- Footer -->
+		<section id="footer">
+			<div class="container">
+				<ul class="copyright">
+					<li>&copy; SudheerInfoTech. All rights reserved.</li>
+					<li>Design & Developed: <a href="http://www.sudheeerinfo.com">Sudheer</a></li>
+				</ul>
+			</div>
+		</section>
+	</div>
+	<!-- login float icons code -->
+	<p class="float" id="myBtn" title="Click here User Login"> <i class="fa fa-user my-float"></i>
+		<br> </p>
+	<!-- login design implementaion -->
+	<!-- Modal HTML -->
+	<div id="myModal" class="modal">
+		<!-- Modal content -->
+		<div class="modal-content"> <span class="close">&times;</span>
+			<p>User Login:</p>
+			<!-- Display Google sign-in button -->
+			<div id="gSignIn"></div>
+		</div>
+	</div>
+	<!-- Scripts -->
+	<script>
+	$(window).on('load', function() {
+		$('article').css({
+			"backgroundColor": "lightcyan",
+			"padding": "35",
+			"border-radius": "25px"
+		});
+	});
+	</script>
+	<script src="assets/js/googleLogin.js"></script>
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+</body>
+
+</html>

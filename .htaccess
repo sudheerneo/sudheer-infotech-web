@@ -1,0 +1,13 @@
+RewriteEngine on
+
+#404 error redirect
+ErrorDocument 404 /404-error.php
+
+# Remove .php file  extension:
+RewriteRule ^(.+)\.php$ /$1 [R,L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ /$1.php [NC,END]
+
+# adding www from any URLs that have them:
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]

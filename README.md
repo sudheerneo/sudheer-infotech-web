@@ -1,4 +1,3 @@
-About
 Its my professional website for running web design business with payment gateway services
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/35428199/sudheerneo/sudheer-infotech-web/recent-activity/m_E29ncT-Kr8hrPAjf0iJjcBdPi28DgzISTJoXCL814/rfRciq_zaZckfG4a_erVp2KXCOLyhN3AfD4OT-ZEa-8_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/35428199/sudheerneo/sudheer-infotech-web/recent-activity/m_E29ncT-Kr8hrPAjf0iJjcBdPi28DgzISTJoXCL814/rfRciq_zaZckfG4a_erVp2KXCOLyhN3AfD4OT-ZEa-8_timeline.svg)](https://github.com/sudheerneo/sudheer-infotech-web/commits)

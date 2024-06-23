@@ -1,6 +1,6 @@
 Its my professional website for running web design business with payment gateway services
 
-# Tv screenshots
+# Web screenshots
 
 <a href="https://github.com/sudheerneo/joblx/blob/main/splash.png?raw=true">
   <img src="https://github.com/sudheerneo/sudheer-infotech-web/blob/main/sudheerinfo.png?raw=true" width="820"/>
